@@ -19,12 +19,16 @@ The main objective of “Face mask Detection” project is to provide some effec
 Link: https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 
 This dataset consists of 1006 images belonging to two classes.
+
 •with_mask:503 images.
+
 •Without mask: 503 images.
+
 .#Data  Analysis
 
 •The Dataset is Split into 2 Parts
 
 •Training purpose images are 100 images with mask and without mask.
+
 •Testing purpose images are 600 images with mask and without mask.
 
